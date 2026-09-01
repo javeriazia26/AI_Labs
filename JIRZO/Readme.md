@@ -1,5 +1,4 @@
-# JIRZO
-# AI-Based Behavioral Risk Assessment for Adaptive Authentication
+# JIRZO - AI-Based Behavioral Risk Assessment for Adaptive Authentication
 
 ## 📌 Project Overview
 
